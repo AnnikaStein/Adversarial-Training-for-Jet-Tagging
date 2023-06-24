@@ -1,14 +1,14 @@
 # Adversarial-Training-for-Jet-Tagging
 Code for:
 > <b><a href="https://arxiv.org/abs/2203.13890" target="_blank">Improving robustness of jet tagging algorithms with adversarial training</a></b>  
-> A. Stein, X. Coubez, S. Mondal, A. Novak, A. Schmidt  
-> 2022.
+> A. Stein et al.
+> Comput.Softw.Big Sci., 2022.
 
 <i>Jet Flavor dataset</i>
 
 Obtained from http://mlphysics.ics.uci.edu/ and originally created for 
 > <b><a href="https://arxiv.org/abs/1607.08633" target="_blank">Jet Flavor Classification in High-Energy Physics with Deep Neural Networks</a></b>  
-> D. Guest, J. Collado, P. Baldi, S. Hsu, G. Urban, and D. Whiteson  
+> D. Guest et al.
 > Physical Review D, 2016.
 
 ## Get and prepare dataset
