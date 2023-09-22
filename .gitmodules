@@ -1,0 +1,3 @@
+[submodule "teaching/short-ex-ftag-edu"]
+	path = teaching/short-ex-ftag-edu
+	url = git@github.com:AnnikaStein/short-ex-ftag-edu.git
